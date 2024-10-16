@@ -15,7 +15,6 @@
 - Notifications for interactions
 - Possibility of cloud hosting with no setup - contact and check
 
-
 _This is a free and open-source project, independent of any company or commercial interests._
 
 Contact: www.swipetor.com
@@ -23,8 +22,4 @@ Contact: www.swipetor.com
 
 ## Related Projects
 
-- [swipetor-server](https://github.com/swipetor/swipetor-server)
-- [weblib-ui-js](https://github.com/atas/weblib-ui-js)
-- [weblib-server-cs](https://github.com/atas/weblib-server-cs)
-- [www](https://github.com/swipetor/swipetor-www)
-
+Check pinned projects section.
