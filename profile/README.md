@@ -16,7 +16,3 @@
 - Possibility of cloud hosting with no setup - contact and check
 
 _This is a free and open-source project, independent of any company or commercial interests._
-
-## Related Projects
-
-Check pinned projects below.
