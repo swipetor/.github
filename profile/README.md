@@ -17,9 +17,6 @@
 
 _This is a free and open-source project, independent of any company or commercial interests._
 
-Contact: www.swipetor.com
-
-
 ## Related Projects
 
-Check pinned projects section.
+Check pinned projects below.
