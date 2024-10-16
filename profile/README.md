@@ -17,4 +17,4 @@ Projects below automatically deploy the latest code to the demo environment, eve
 - Commenting
 - Notifications for interactions
 
-_This is a free and open-source personal project, independent of any company or commercial interests._
+_This is a free and open-source project, independent of any company or commercial interests._
