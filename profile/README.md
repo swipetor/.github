@@ -3,7 +3,7 @@
 **Goal** — Provide an open-source, free video feed solution to showcase independent digital content on the web, distinguishing it from the influx of mediocre and AI-generated content on social media.
 
 ## https://demo.swipetor.com
-
+Projects below automatically deploy the latest code to the demo environment, everything is 100% open-source.
 
 ## Features
 - Smooth web-based app, like native
